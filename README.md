@@ -1,7 +1,10 @@
 Приветствую. Это мой первый код, так что, прошу, не судите строго. Перед запуском python файла нужно прописать команды:
 pip3 install requests
+
 git clone https://github.com/daytrift/Posthacker.g…
+
 cd Posthacker/
+
 python3 posthacker.py
 
 Write the successful banner: вписываем сюда надпись послу удачной авторизации на сайте
