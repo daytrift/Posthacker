@@ -7,7 +7,7 @@ cd Posthacker/
 
 python3 posthacker.py
 
-Write the successful banner: вписываем сюда надпись послу удачной авторизации на сайте
+Write the successful banner: вписываем сюда надпись после удачной авторизации на сайте
 
 Write the url: вписываем адрес сайта
 
